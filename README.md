@@ -8,8 +8,10 @@ Este repositório fornece uma metodologia estruturada e templates para desenvolv
 - Template estruturado para documentação do projeto  
 - Metodologia passo a passo para desenvolvimento de soluções  
 - Planilhas de acompanhamento e métricas  
-- Guias para implementação em Python  
-- 🛠️ **Tecnologias Utilizadas**: Python, ChatGPT, Planilhas
+- Guias para implementação em Python
+
+# 🛠️ Tecnologias Utilizadas
+- Python, ChatGPT, Planilhas
 
 # 📁 Estrutura do Repositório
 ```
