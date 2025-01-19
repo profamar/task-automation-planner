@@ -63,4 +63,6 @@ Contribuições são bem-vindas! Por favor, sinta-se à vontade para submeter pu
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
 ---
