@@ -1,4 +1,4 @@
-# Planilha de Desenvolvimento de Solução para Automação de Tarefas
+# Planilha de Automação de Tarefas 📊🤖
 
 Um framework estruturado para planejamento, documentação e implementação de soluções de automação de processos.
 
