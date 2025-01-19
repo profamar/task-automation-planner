@@ -1,5 +1,5 @@
 # Planilha de Automação de Tarefas 📊🤖  
-Um framework estruturado para planejamento, documentação e implementação de soluções de automação de processos.
+(Framework para automação: planejamento, documentação e implementação)
 
 # 📋 Sobre o Projeto  
 Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
