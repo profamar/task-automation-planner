@@ -1,7 +1,6 @@
-# task-automation-planner
-# Task Automation Planner
+# Planilha de Desenvolvimento de Solução para Automação de Tarefas
 
-Um framework estruturado para planejamento e implementação de soluções de automação de tarefas.
+Um framework estruturado para planejamento, documentação e implementação de soluções de automação de processos.
 
 ## 📋 Sobre o Projeto
 
