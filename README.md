@@ -57,7 +57,10 @@ Contribuições são bem-vindas! Por favor, sinta-se à vontade para submeter pu
 
 # 📝 Licença  
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
 ![Emoji Planilha Automação de Tarefas](imagem/emoji%20for%20Planilha%20de%20Automa%C3%A7%C3%A3o%20de%20Tarefas.png)
+
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!**
 
