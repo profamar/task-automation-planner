@@ -3,7 +3,7 @@
 Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
 
 ---
-![Descrição da Imagem](https://github.com/seu-usuario/seu-repositorio/imagem.png)
+![Descrição da Imagem](https://github.com/profamar/task-automation-planner/blob/main/Imagem%20Emoji%20automa%C3%A7%C3%A3o.jpg)
 
 ---
 ## 🚀 Principais Recursos
