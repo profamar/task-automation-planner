@@ -1,8 +1,8 @@
-# Planilha de Automação de Tarefas 📊🤖  
-(Framework para automação: planejamento, documentação e implementação)
+# Automação de Tarefas: Planejamento e Implementação 📊🤖
 
-# 📋 Sobre o Projeto  
-Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
+![Emoji Planilha Automação de Tarefas](imagem/emoji%20for%20Planilha%20de%20Automa%C3%A7%C3%A3o%20de%20Tarefas.png)
+
+# Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
 
 # 🚀 Principais Recursos  
 - Template estruturado para documentação do projeto  
@@ -57,9 +57,6 @@ Contribuições são bem-vindas! Por favor, sinta-se à vontade para submeter pu
 
 # 📝 Licença  
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-
-![Emoji Planilha Automação de Tarefas](imagem/emoji%20for%20Planilha%20de%20Automa%C3%A7%C3%A3o%20de%20Tarefas.png)
 
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
