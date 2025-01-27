@@ -1,15 +1,23 @@
 # 🚀 Automação de Tarefas: Planejamento e Implementação 📊🤖
 
-# Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
+Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
 
-# 🚀 Principais Recursos  
-- Template estruturado para documentação do projeto  
-- Metodologia passo a passo para desenvolvimento de soluções  
-- Planilhas de acompanhamento e métricas  
-- Guias para implementação em Python
+---
 
-# 🛠️ Tecnologias Utilizadas
-- Python, ChatGPT, Planilhas
+## 🚀 Principais Recursos
+- **Template estruturado** para documentação do projeto.  
+- **Metodologia passo a passo** para desenvolvimento de soluções.  
+- **Planilhas de acompanhamento** e métricas.  
+- **Guias para implementação em Python** com exemplos práticos.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Python**: Scripts e automações personalizáveis.  
+- **ChatGPT**: Suporte inteligente para ideias e execução.  
+- **Planilhas**: Ferramentas para acompanhamento de progresso e métricas.  
+
+---
 
 # 📁 Estrutura do Repositório
 ```
