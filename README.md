@@ -1,8 +1,6 @@
-# Automação de Tarefas: Planejamento e Implementação 
+# 🚀 Automação de Tarefas: Planejamento e Implementação 📊🤖
 
 # Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
-
-![Emoji Planilha Automação de Tarefas](imagem/emoji%20for%20Planilha%20de%20Automa%C3%A7%C3%A3o%20de%20Tarefas.png)
 
 # 🚀 Principais Recursos  
 - Template estruturado para documentação do projeto  
