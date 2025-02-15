@@ -1,10 +1,9 @@
-# 🚀 Automação de Tarefas: Planejamento e Implementação 📊🤖
+# Automação de Tarefas: Planejamento e Implementação
 
 Este repositório fornece uma metodologia estruturada e templates para desenvolvimento de soluções de automação. O framework guia você através de todas as etapas necessárias, desde a definição do problema até a implementação e medição dos benefícios.
 
 ---
 ![Descrição da Imagem](https://github.com/profamar/task-automation-planner/blob/main/Automa%C3%A7%C3%A3o%20de%20Tarefas_%20Planejamento%20e%20Implementa%C3%A7%C3%A3o%20%F0%9F%93%8A%F0%9F%A4%96.png)
-
 
 ---
 ## 🚀 Principais Recursos
